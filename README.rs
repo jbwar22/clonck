@@ -8,6 +8,7 @@
            ##m         ##      ##    ##  ##    ##  ##        ##"##m   
             ##mmmm#    ##mmm   "##mm##"  ##    ##  "##mmmm#  ##  "#m  
               """"      """"     """"    ""    ""    """""   ""   """ 
+
                      A clock that isn't dumb and stupid
 
 

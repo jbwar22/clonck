@@ -24,7 +24,8 @@ To run, type the following in your repo:
 FAQ:
 
 Q - Why is the README not a Markdown file?
-A - So that this project is ONE HUNDRED PERCENT Rust.
+A - Originally so that this project was ONE HUNDRED PERCENT Rust, but now that
+    there is a Nix flake this is no longer true :(
 
 Q - What's the point of this project?
 A - Clonck aims to be fast, accurate, and Japanese. It accomplishes all three of
